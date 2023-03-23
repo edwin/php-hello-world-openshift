@@ -5,7 +5,6 @@ Create a very simple hello world PHP app, and deploy it into Openshift 4.
 ## Deploy to Openshift 4
 ```
 $ oc new-app https://github.com/edwin/php-hello-world-openshift.git
-
 ```
 
 ## Create Route
