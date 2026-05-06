@@ -1,7 +1,6 @@
 <?PHP
 $data = '{
-"name":"Edwin",
-"address":"Indonesia"
+"hello":"world to PHP on OCP"
 }';
 header('Content-Type: application/json');
 echo $data;
